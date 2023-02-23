@@ -1,3 +1,5 @@
+![banner](static/img/java-develop-pedia-banner.png)
+
 # Java-Develop-Pedia
 
 > A collection of Java learning resources from anywhere on the Internet.
@@ -13,21 +15,21 @@ data. Big thanks for these resources go to:
 - https://github.com/s4kibs4mi (Roadmap)
 - https://github.com/akullpp (Awesome-List)
 
-  And of course to all the people who contributed to this projects.
+And of course to all the people who contributed to this projects.
 
-  ## Future
+## Future
 
-  In the future, an interactive roadmap is planned, which will be combined with a collection of Java tutorials. More
-  information will follow soon
+In the future, an interactive roadmap is planned, which will be combined with a collection of Java tutorials. More
+information will follow soon
 
-  ## Technologie
+## Technology
 
-  Vercel is used for hosting the page. For the creation of the page and the generation of the individual segments I use
-  Docusaurus 2.0.
+[**Vercel**](https://vercel.com/) is used for hosting the page. For the creation of the page and the generation of the individual segments I use
+[**Docusaurus 2.0**](https://docusaurus.io/).
 
-  ## Contributing
+## Contributing
 
-    - Fork Repository
-    - Open a pull request with improvements
-    - Discuss ideas in issues
-    - Spread the word
+- Fork Repository
+- Open a pull request with improvements
+- Discuss ideas in issues
+- Spread the word
