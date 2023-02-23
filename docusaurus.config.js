@@ -69,7 +69,7 @@ const config = {
                     alt: 'Java-Develop-Pedia',
                     src: 'img/logo.png',
                     srcDark: 'img/logoDark.png',
-                    width: 40,
+                    width: 35,
                     height: 40,
                 },
                 items: [
