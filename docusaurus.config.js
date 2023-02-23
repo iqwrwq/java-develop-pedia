@@ -62,22 +62,16 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
-            image: 'img/docusaurus-social-card.jpg',
+            image: 'img/Java-Develop-Pedia-logos_white.jpg',
             navbar: {
                 title: 'Java-Develop-Pedia',
                 logo: {
                     alt: 'Java-Develop-Pedia',
-                    src: 'img/logo.svg',
+                    src: 'img/logo.png',
                 },
                 items: [
-                    {
-                        type: 'doc',
-                        docId: 'intro',
-                        position: 'left',
-                        label: 'Roadmap',
-
-                    },
-                    {to: '/blog', label: 'Awesome', position: 'left'},
+                    {to: '/roadmap', label: 'Roadmap', position: 'left'},
+                    {to: '/awesome', label: 'Awesome', position: 'left'},
                     {
                         href: 'https://github.com/iqwrwq/java-develop-pedia',
                         label: 'GitHub',
@@ -92,16 +86,20 @@ const config = {
                         title: 'Developer Wiki',
                         items: [
                             {
-                                label: 'Interactive Roadmap',
-                                to: '/docs/intro',
+                                label: 'Roadmap',
+                                to: '/roadmap',
                             },
                             {
                                 label: 'Awesome List',
-                                to: '/docs/intro',
+                                to: '/awesome',
                             },
                             {
-                                label: 'Bucket List',
-                                to: '/docs/intro',
+                                label: 'Interactive Roadmap (UPCOMING)',
+                                to: '/roadmap',
+                            },
+                            {
+                                label: 'Bucket List (UPCOMING)',
+                                to: '/',
                             },
                         ],
                     },
