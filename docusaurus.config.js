@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Java-Develop-Pedia',
-    tagline: 'The place for Java Developers',
+    tagline: 'Unlock your Java potential and code your way to success',
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
