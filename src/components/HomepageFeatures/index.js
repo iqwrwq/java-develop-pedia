@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
     {
         title: 'Learn',
-        Svg: require('@site/static/img/1.svg').default,
+        Svg: require('@site/static/img/java-develop-pedia-learn-lp.svg').default,
         description: (
             <>
                 Start your journey as a beginner and develop yourself piece by piece to a professional java developer.
@@ -15,7 +15,7 @@ const FeatureList = [
     },
     {
         title: 'Build',
-        Svg: require('@site/static/img/2.svg').default,
+        Svg: require('@site/static/img/java-develop-pedia-build-lp.svg').default,
         description: (
             <>
                 Expand and develop projects. Learn about new frameworks and packages. Brought to you by hundreds of
@@ -25,7 +25,7 @@ const FeatureList = [
     },
     {
         title: 'Improve',
-        Svg: require('@site/static/img/3.svg').default,
+        Svg: require('@site/static/img/java-develop-pedia-improve-lp.svg').default,
         description: (
             <>
                 Expand your knowledge and stay up-to-date. Quit searching!
@@ -41,7 +41,7 @@ function Feature({Svg, title, description}) {
                 <Svg className={styles.featureSvg} role="img"/>
             </div>
             <div className="text--center padding-horiz--md">
-                <h3>{title}</h3>
+                <a href="/"><h3>{title}</h3></a>
                 <p>{description}</p>
             </div>
         </div>
