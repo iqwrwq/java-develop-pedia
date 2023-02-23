@@ -290,7 +290,7 @@ _Frameworks and libraries that simplify reading/writing CSV data._
   writing CSV.
 - [opencsv](http://opencsv.sourceforge.net) - Simple CSV parser.
 - [Super CSV](https://super-csv.github.io/super-csv/) - Powerful CSV parser with support for Dozer, Joda-Time and Java
-  8.
+    8.
 - [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers) - One of the fastest and most feature-complete
   parsers. Also comes with parsers for TSV and fixed-width records.
 
